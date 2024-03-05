@@ -110,3 +110,4 @@ No cuenta con funcionalidad CRUD completa. Se exponen los siguientes endpoints (
     - pip install -r requirements.txt
     - pip install Flask
     - pip freeze > requirements.txt
+
