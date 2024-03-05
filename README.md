@@ -95,3 +95,13 @@ No cuenta con funcionalidad CRUD completa. Se exponen los siguientes endpoints (
 
             curl --request GET \
             --url http://localhost:5000/Eel_On_Musk/all
+
+
+# Instrucciones de uso
+- Clona el repositorio en tu máquina local con git clone https://github.com/<tu_usuario>/pps_quacker.git.
+- Crea y activa un entorno virtual de Python con los siguientes comandos:
+mkdir venv
+- python3 -m venv venv
+- source venv/bin/activate (en Linux o Mac) o venv\Scripts\activate (en Windows)
+- Instala las dependencias del proyecto con pip install -r requirements.txt.
+- Ejecuta la aplicación con python app.py.
