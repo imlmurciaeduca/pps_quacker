@@ -95,3 +95,18 @@ No cuenta con funcionalidad CRUD completa. Se exponen los siguientes endpoints (
 
             curl --request GET \
             --url http://localhost:5000/Eel_On_Musk/all
+
+## Instrucciones de uso
+
+1. Clonar el repositorio
+   - git clone https://github.com/Luis-ms24/pps_quacker.git
+   - cd pps_quacker
+
+2. Crear y activar entorno virtual
+    - python3 -m venv venv
+    - source venv/bin/activate
+
+3. Instalar dependencias
+    - pip install -r requirements.txt
+    - pip install Flask
+    - pip freeze > requirements.txt
